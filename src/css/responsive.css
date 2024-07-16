@@ -1,0 +1,11 @@
+@media(max-width: 730px){
+    
+    main {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .orientacao {
+        margin: 30px;
+    }
+}
